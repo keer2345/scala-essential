@@ -2,7 +2,7 @@
 - [Book](https://underscore.io/training/courses/essential-scala/)
 - [Source Code](https://github.com/underscoreio/essential-scala)
 
-![]()https://underscore.io/images/books/essential-scala.png)
+![](https://underscore.io/images/books/essential-scala.png)
 
 
 ### Table of Contents
