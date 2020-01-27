@@ -9,8 +9,8 @@
 
 ### Table of Contents
 
-0. Foreword
-0. Introduction
+0. [Foreword](https://github.com/keer2345/scala-essential/blob/master/ch00.md)
+0. [Introduction](https://github.com/keer2345/scala-essential/blob/master/ch01.md)
     - Expressions, Types, and Values
     - Interacting with Objects
     - Immutability and Equational Reasoning
