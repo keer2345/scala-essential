@@ -8,38 +8,17 @@
 ### Table of Contents
 
 0. [Foreword](https://github.com/keer2345/scala-essential/blob/master/ch00.md)
-0. [Introduction](https://github.com/keer2345/scala-essential/blob/master/ch01.md)
-    - Expressions, Types, and Values
+    Conventions Used in This Book
+    Thanks
+0. [Getting Started](https://github.com/keer2345/scala-essential/blob/master/ch01.md)
+    - Setting up the Scala Console
+    - Setting up Scala IDE
+
+0. [Expressions, Types, and Values](https://github.com/keer2345/scala-essential/blob/master/ch02.md)
+    - Your First Program
     - Interacting with Objects
-    - Immutability and Equational Reasoning
-0. Algebraic Data Types
-    - Case Classes and Sealed Traits
-    - Structural Recursion
-    - Pattern Matching
-0. Functions
-    - Function Literals
-    - Functions as Values
-    - Functions as Objects
-    - Higher Order Functions and Methods
-0. Generics
-    - Generic Types and Methods
-    - Using Functions to Decouple Concepts
-    - Variance
-0. Sequencing Computations
-    - Map and FlatMap
-    - Iterating and Looping
-    - Folding
-    - For Comprehensions
-    - Sequencing Computations
-0. Standard Library
-    - Packages and Companion Objects
-    - Options
-    - Tuples
-    - Lists, Ranges, and Sequences
-    - Maps and Sets
-0. Type Classes
-    - The Type Class Pattern
-    - Implicit Parameters
-    - Implicit Values
-    - Type Enrichment
-    - Combining Type Classes and Type Enrichment
+    - Literal Objects
+    - Object Literals
+    - Writing Methods
+    - Compound Expressions
+    - Conclusion
