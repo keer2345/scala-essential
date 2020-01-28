@@ -22,3 +22,20 @@
     - Writing Methods
     - Compound Expressions
     - Conclusion
+0. [Objects and Classes](https://github.com/keer2345/scala-essential/blob/master/ch03.md)
+    - Classes
+    - Objects as Functions
+    - Companion Objects
+    - Case Classes
+    - Pattern Matching
+    - Conclusions
+0. [Modelling Data with Traits](https://github.com/keer2345/scala-essential/blob/master/ch04.md)
+    - Traits
+    - This or That and Nothing Else: Sealed Traits
+    - Modelling Data with Traits
+    - The Sum Type Pattern
+    - Working With Data
+    - Recursive Data
+    - Extended Examples
+    - Conclusions
+
