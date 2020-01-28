@@ -8,8 +8,8 @@
 ### Table of Contents
 
 0. [Foreword](https://github.com/keer2345/scala-essential/blob/master/ch00.md)
-    Conventions Used in This Book
-    Thanks
+    - Conventions Used in This Book
+    - Thanks
 0. [Getting Started](https://github.com/keer2345/scala-essential/blob/master/ch01.md)
     - Setting up the Scala Console
     - Setting up Scala IDE
